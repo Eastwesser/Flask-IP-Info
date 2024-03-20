@@ -12,6 +12,8 @@ git clone <repository-url>
 
 pip install -r requirements.txt
 
+NOTE: Remove this IP 196.196.203.10 with yours. Check your IP using this site: https://ipinfo.io/.
+
 ## Usage
 
 1. Start the Flask application:
