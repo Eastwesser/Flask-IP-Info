@@ -16,7 +16,7 @@ NOTE: Remove this IP 196.196.203.10 with yours. Check your IP using this site: h
 
 ## Usage
 
-1. Start the Flask application:
+1. Start the Flask application (for Windows):
 
 waitress-serve --listen=127.0.0.1:8000 app:app
 
